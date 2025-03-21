@@ -53,6 +53,8 @@ In this project, we focused on improving the quality and integrity of CRM data i
   
 - **Removal of Irrelevant Data:** 
   - Deleted records with missing critical fields or no activity history for over 12 months.
+<img width="1177" alt="Duplicate rule" src="https://github.com/user-attachments/assets/45fa5935-ece8-4ce0-8c1e-cfbe336e8650" />
+<img width="923" alt="Matching rules" src="https://github.com/user-attachments/assets/8bcf5b34-fc0d-493a-af09-6483e6a732e1" />
 
 ### 3. Data Standardization 🧾
 
@@ -67,7 +69,7 @@ In this project, we focused on improving the quality and integrity of CRM data i
   - Created Salesforce validation rules to enforce entry requirements and formatting moving forward.
  
 ![validate rule](https://github.com/user-attachments/assets/e9fc6612-0544-4c82-af7c-515f88808f3b)
-  
+
 ### 4. Automation & Maintenance 🔁
 
 - Scheduled regular deduplication checks via reports and scheduled flows.
