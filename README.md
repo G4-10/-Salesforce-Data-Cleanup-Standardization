@@ -65,7 +65,6 @@ In this project, we focused on improving the quality and integrity of CRM data i
   
 - **Validation Rules:**
   - Created Salesforce validation rules to enforce entry requirements and formatting moving forward.
-![validate rule](https://github.com/user-attachments/assets/e9fc6612-0544-4c82-af7c-515f88808f3b)
   
 ### 4. Automation & Maintenance 🔁
 
